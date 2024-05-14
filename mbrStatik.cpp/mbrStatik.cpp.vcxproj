@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="construktor.cpp" />
+    <ClCompile Include="destruktor.cpp" />
     <ClCompile Include="mbrStatik.cpp.cpp" />
     <ClCompile Include="mbrStatikfunc.cpp" />
   </ItemGroup>

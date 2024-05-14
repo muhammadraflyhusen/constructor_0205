@@ -24,5 +24,8 @@
     <ClCompile Include="construktor.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="destruktor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
