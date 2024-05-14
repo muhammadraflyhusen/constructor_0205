@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="construktor.cpp" />
     <ClCompile Include="mbrStatik.cpp.cpp" />
     <ClCompile Include="mbrStatikfunc.cpp" />
   </ItemGroup>
